@@ -1,0 +1,41 @@
+﻿langlist.ja_JP=
+{
+	langName:"日本語(日本)",
+	langIncomp:"",//"Translation to this language is not complete."
+	white:
+	{
+		mount:"白のマウント",
+		hand:"白のハンド",
+		point:"白のポイント",
+		yourturn:"白の番",
+		cardblown:"白のカードを吹き飛ばしました。",
+		nocard:"白のカードが枯渇しました。試合終了です。",
+		win:"白の勝利です。"
+	},
+	black:
+	{
+		mount:"黒のマウント",
+		hand:"黒のハンド",
+		point:"黒のポイント",
+		yourturn:"黒の番",
+		cardblown:"黒のカードを吹き飛ばしました。",
+		nocard:"黒のカードが枯渇しました。試合終了です。",
+		win:"黒の勝利です。"
+	},
+	startGame:"ゲーム開始",
+	rotClock:"時計回りに回転",
+	rotCClock:"反時計回りに回転",
+	tie:"引き分けです。",
+	draw:"カードをドロー",
+	play:"カードをプレイ",
+	jumpplay:"飛ばしたカードをプレイ",
+	put:"プット",
+	jumpput:"ジャンププット",
+	failput:"フェールプット",
+	skipDraw:"ドローしない",
+	turnEnd:"ターン終了",
+	C_Cforbidden:"移動できません",
+	C_CforbiddenFirst:"選択できません"
+	
+};
+

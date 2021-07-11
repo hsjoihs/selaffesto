@@ -1,0 +1,44 @@
+﻿div.wcard56
+{
+	width :56px;       
+	height:56px; 
+	background-image:url("../img/back56w.png");
+	position:relative;
+}
+div.bcard56
+{
+	width :56px;       
+	height:56px; 
+	background-image:url("../img/back56b.png");
+	position:relative;
+}
+div.num
+{
+	width:14px;
+	height:14px;
+	overflow:hidden;
+}
+div.secup56
+{
+	position:absolute;  
+	left:21px;  
+	top:4px; 
+}
+div.secleft56
+{
+	position:absolute;  
+	left:4px;
+	top:21px;  
+}
+div.secdown56
+{
+	position:absolute;  
+	left:21px;  
+	top:38px; 
+}
+div.secright56
+{
+	position:absolute;  
+	left:38px;
+	top:21px;  
+}
